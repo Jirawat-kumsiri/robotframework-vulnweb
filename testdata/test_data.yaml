@@ -1,0 +1,19 @@
+url: http://testphp.vulnweb.com/login.php
+browser: chrome
+login:
+  username: test
+  password: test
+menu: 
+  menu_name: Browse categories
+  category:
+    category_name: Posters
+    product_name: Trees
+    author: Blad3
+add_to_cart_text: add this picture to cart
+input:
+  username: uname
+  password: pass
+button:
+  login: login
+dollar_text: $
+total_text: 'Total: $'
